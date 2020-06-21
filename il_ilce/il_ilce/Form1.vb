@@ -1,0 +1,148 @@
+﻿Public Class Form1
+    Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox1.SelectedIndexChanged
+        ListBox1.Items.Clear()
+        If ComboBox1.Text = "Adana" Then
+            ListBox1.Items.Add("Aladağ")
+            ListBox1.Items.Add("Ceyhan")
+            ListBox1.Items.Add("Çukurova")
+            ListBox1.Items.Add("Feke")
+            ListBox1.Items.Add("İmamoğlu")
+            ListBox1.Items.Add("Karaisalı")
+            ListBox1.Items.Add("Karataş")
+            ListBox1.Items.Add("Kozan")
+            ListBox1.Items.Add("Pozantı")
+            ListBox1.Items.Add("Saimbeyli")
+            ListBox1.Items.Add("Sarıçam")
+            ListBox1.Items.Add("Seyhan")
+            ListBox1.Items.Add("Tufanbeyli")
+            ListBox1.Items.Add("Yumurtalık")
+            ListBox1.Items.Add("Yüreğir")
+
+        ElseIf ComboBox1.Text = "Adıyaman" Then
+            ListBox1.Items.Add("Gölbaşı")
+            ListBox1.Items.Add("Besni")
+            ListBox1.Items.Add("Çelikhan")
+            ListBox1.Items.Add("Gerger")
+            ListBox1.Items.Add("Kahta")
+            ListBox1.Items.Add("Samsat")
+            ListBox1.Items.Add("Sincik")
+            ListBox1.Items.Add("Tut")
+
+        ElseIf ComboBox1.Text = "Malatya" Then
+            ListBox1.Items.Add("Akçadağ")
+            ListBox1.Items.Add("Arapgir")
+            ListBox1.Items.Add("Arguvan")
+            ListBox1.Items.Add("Çay")
+            ListBox1.Items.Add("Battalgazi")
+            ListBox1.Items.Add("Doğanşehir")
+
+        ElseIf ComboBox1.Text = "Diyarbakır" Then
+            ListBox1.Items.Add("Bağlar")
+            ListBox1.Items.Add("Bismil")
+            ListBox1.Items.Add("Çermik")
+            ListBox1.Items.Add("Çınar")
+            ListBox1.Items.Add("Patnos")
+            ListBox1.Items.Add("Çüngüş")
+            ListBox1.Items.Add("Dicle")
+
+        ElseIf ComboBox1.Text = "Amasya" Then
+            ListBox1.Items.Add("Göynücek")
+            ListBox1.Items.Add("Gümüşhacıköy")
+            ListBox1.Items.Add("Hamamözü")
+            ListBox1.Items.Add("Merzifon")
+            ListBox1.Items.Add("Suluova")
+            ListBox1.Items.Add("Taşova")
+
+        ElseIf ComboBox1.Text = "Ankara" Then
+            ListBox1.Items.Add("Akyurt")
+            ListBox1.Items.Add("Altındağ")
+            ListBox1.Items.Add("Ayaş")
+            ListBox1.Items.Add("Bala")
+            ListBox1.Items.Add("Beypazarı")
+            ListBox1.Items.Add("Çamlıdere")
+            ListBox1.Items.Add("Çankaya")
+            ListBox1.Items.Add("Çubuk")
+            ListBox1.Items.Add("Elmadağ")
+            ListBox1.Items.Add("Etimesgut")
+            ListBox1.Items.Add("Evren")
+            ListBox1.Items.Add("Gölbaşı")
+            ListBox1.Items.Add("Güdül")
+            ListBox1.Items.Add("Haymana")
+            ListBox1.Items.Add("Kalecik")
+            ListBox1.Items.Add("Kazan")
+            ListBox1.Items.Add("Keçiören")
+            ListBox1.Items.Add("Kızılcahamam")
+            ListBox1.Items.Add("Mamak")
+            ListBox1.Items.Add("Nallıhan")
+            ListBox1.Items.Add("Polatlı")
+            ListBox1.Items.Add("Pursaklar")
+            ListBox1.Items.Add("Sincan")
+            ListBox1.Items.Add("Şereflikoçhisar")
+            ListBox1.Items.Add("Yenimahalle")
+
+        ElseIf ComboBox1.Text = "Şanlıurfa" Then
+            ListBox1.Items.Add("Akçakale")
+            ListBox1.Items.Add("Birecik")
+            ListBox1.Items.Add("Bozova")
+            ListBox1.Items.Add("Ceylanpınar")
+            ListBox1.Items.Add("Eyyübiye")
+            ListBox1.Items.Add("Halfeti")
+            ListBox1.Items.Add("Haliliye")
+            ListBox1.Items.Add("Harran")
+
+        ElseIf ComboBox1.Text = "Artvin" Then
+            ListBox1.Items.Add("Ardanuç")
+            ListBox1.Items.Add("Arhavi")
+            ListBox1.Items.Add("Borçka")
+            ListBox1.Items.Add("Hopa")
+            ListBox1.Items.Add("Murgul")
+            ListBox1.Items.Add("Şavşat")
+            ListBox1.Items.Add("Yusufeli")
+
+        ElseIf ComboBox1.Text = "Aydın" Then
+            ListBox1.Items.Add("Bozdoğan")
+            ListBox1.Items.Add("Buharkent")
+            ListBox1.Items.Add("Çine")
+            ListBox1.Items.Add("Didim")
+            ListBox1.Items.Add("Efeler")
+            ListBox1.Items.Add("Germencik")
+            ListBox1.Items.Add("İncirliova")
+            ListBox1.Items.Add("Karacasu")
+            ListBox1.Items.Add("Karpuzlu")
+            ListBox1.Items.Add("Koçarlı")
+            ListBox1.Items.Add("Köşk")
+            ListBox1.Items.Add("Kuşadası")
+            ListBox1.Items.Add("Kuyucak")
+            ListBox1.Items.Add("Nazilli")
+            ListBox1.Items.Add("Söke")
+            ListBox1.Items.Add("Sultanhisar")
+            ListBox1.Items.Add("Yenipazar")
+
+        ElseIf ComboBox1.Text = "Balıkesir" Then
+            ListBox1.Items.Add("Altıeylül")
+            ListBox1.Items.Add("Ayvalık")
+            ListBox1.Items.Add("Balya")
+            ListBox1.Items.Add("Bandırma")
+            ListBox1.Items.Add("Bigadiç")
+            ListBox1.Items.Add("Burhaniye")
+            ListBox1.Items.Add("Dursunbey")
+            ListBox1.Items.Add("Edremit")
+            ListBox1.Items.Add("Erdek")
+            ListBox1.Items.Add("Gömeç")
+            ListBox1.Items.Add("Gönen")
+            ListBox1.Items.Add("Havran")
+            ListBox1.Items.Add("İvrindi")
+            ListBox1.Items.Add("Karesi")
+            ListBox1.Items.Add("Kepsut")
+            ListBox1.Items.Add("Manyas")
+            ListBox1.Items.Add("Marmara")
+            ListBox1.Items.Add("Şavaştepe")
+            ListBox1.Items.Add("Sındırgı")
+            ListBox1.Items.Add("Susurluk")
+        End If
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+End Class

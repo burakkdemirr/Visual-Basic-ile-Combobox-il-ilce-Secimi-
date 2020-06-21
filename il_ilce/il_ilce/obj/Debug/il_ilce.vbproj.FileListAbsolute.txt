@@ -1,0 +1,22 @@
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\bin\Debug\il_ilce.exe.config
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\bin\Debug\il_ilce.exe
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\bin\Debug\il_ilce.pdb
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\bin\Debug\il_ilce.xml
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\obj\Debug\il_ilce.Form1.resources
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\obj\Debug\il_ilce.Resources.resources
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\obj\Debug\il_ilce.vbproj.GenerateResource.Cache
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\obj\Debug\il_ilce.exe
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\obj\Debug\il_ilce.xml
+C:\Users\HALUK\Desktop\Görsel Programlama Ödev\il_ilce\il_ilce\obj\Debug\il_ilce.pdb
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\bin\Debug\il_ilce.exe.config
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\bin\Debug\il_ilce.exe
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\bin\Debug\il_ilce.pdb
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\bin\Debug\il_ilce.xml
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\obj\Debug\il_ilce.vbprojAssemblyReference.cache
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\obj\Debug\il_ilce.Form1.resources
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\obj\Debug\il_ilce.Resources.resources
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\obj\Debug\il_ilce.vbproj.GenerateResource.cache
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\obj\Debug\il_ilce.vbproj.CoreCompileInputs.cache
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\obj\Debug\il_ilce.exe
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\obj\Debug\il_ilce.xml
+C:\Users\Burak Demir\Desktop\il_ilce\il_ilce\obj\Debug\il_ilce.pdb
